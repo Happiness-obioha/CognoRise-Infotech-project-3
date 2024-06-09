@@ -23,7 +23,13 @@ This is a single page report, that is, the dashboard. This is the link to the da
 
 The dataset contains 740 rows and 7 columns. The analysis includes various visualizations to understand the unemployment rates in India. These include:
 
-- Unemployment rate over time: The unemployment rate in India has fluctuated over time, with a general trend of increasing unemployment rates.
+- Unemployment rate over time: The unemployment rate in India has fluctuated over time, with a general trend of increasing unemployment rates. A line graph showing the unemployment rate in India between 2019 and 2020.
 
-- Regional variations in unemployment rates: There are significant regional variations in unemployment rates in India, with some regions having higher rates than others.
+- Regional variations in unemployment rates: There are significant regional variations in unemployment rates in India, with some regions having higher rates than others. The unemployment rate in urban areas is generally higher than that in rural areas.
+
+- The pandemic on employment in India: The pandemic has had a significant impact on employment in India, with many people losing their jobs and facing challenges in finding new employment.
+
+## Recommendations:
+
+
 
