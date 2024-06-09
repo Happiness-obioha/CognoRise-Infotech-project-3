@@ -15,4 +15,9 @@ In this analysis, we will explore the trends and patterns of unemployment in Ind
 3.	How has the unemployment rate changed over time?
 4.	How is the unemployment rate in urban areas compared to rural areas?
 
+## Visualization:
+
+This is a single page report, that is, the dashboard. This is the link to the dashboard ![]()https://app.powerbi.com/groups/me/reports/d7372c12-4383-40d0-a7f1-0936dd9538f4/ReportSection?experience=power-bi
+
+
 
