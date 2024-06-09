@@ -31,5 +31,8 @@ The dataset contains 740 rows and 7 columns. The analysis includes various visua
 
 ## Recommendations:
 
+Use data visualization tools to present the data in a clear and intuitive manner, highlighting key trends and insights.
+
+Perform advanced data analysis to identify patterns and correlations that can inform policy decisions and improve employment outcomes in India.
 
 
