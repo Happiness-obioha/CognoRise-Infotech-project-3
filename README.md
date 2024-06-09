@@ -19,5 +19,11 @@ In this analysis, we will explore the trends and patterns of unemployment in Ind
 
 This is a single page report, that is, the dashboard. This is the link to the dashboard ![]()https://app.powerbi.com/groups/me/reports/d7372c12-4383-40d0-a7f1-0936dd9538f4/ReportSection?experience=power-bi
 
+## Analysis:
 
+The dataset contains 740 rows and 7 columns. The analysis includes various visualizations to understand the unemployment rates in India. These include:
+
+- Unemployment rate over time: The unemployment rate in India has fluctuated over time, with a general trend of increasing unemployment rates.
+
+- Regional variations in unemployment rates: There are significant regional variations in unemployment rates in India, with some regions having higher rates than others.
 
