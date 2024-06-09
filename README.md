@@ -10,4 +10,9 @@ In this analysis, we will explore the trends and patterns of unemployment in Ind
 
 ## Problem Statement:
 
+1.	What is the impact of the pandemic on employment in India?
+2.	What are the regional variations in unemployment rates?
+3.	How has the unemployment rate changed over time?
+4.	How is the unemployment rate in urban areas compared to rural areas?
+
 
